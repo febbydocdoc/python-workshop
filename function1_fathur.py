@@ -13,5 +13,5 @@ lower = lower_case(string)
 upper = upper_case(string)
 
 
-print("Hurug Kecil = ", lower)
+print("Huruf Kecil = ", lower)
 print("Huruf Besar = ", upper)
